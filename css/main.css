@@ -1,0 +1,37 @@
+* {
+    box-sizing: border-box;
+    text-align: center;
+}
+img {
+    margin-top: 15%;
+}
+h1 {
+    font-size: 18px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-transform: uppercase;
+    margin-bottom: 5px;
+}
+p {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin-top: 0;
+    margin-bottom: 3%;
+}
+a {
+    color: azure;
+    background-color: black;
+    text-decoration: none;
+    text-transform: uppercase;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    padding: 15px;
+    padding-left: 30px;
+    padding-right: 30px;
+    font-size: 12px;
+    font-weight: bold;
+    border-radius: 5px;
+}
+body {
+    background-image: url('../img/vintage-car.jpeg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
